@@ -5,7 +5,7 @@ This repository is the Student Project and Research Committee's reference to 3D 
 Also included in these sections is instructions on how to get started.  We ask that you do not use the printers without being trained by a SPARC member if you have never used a 3D printer.  3D printing is a great skill to have and can be used for so many projects.  Do be good at 3D printing like anything else, it takes practice and experimentation through trial and error.  Once you gain experience you will learn which settings work best for each type of filament for each printer and techniques to ensure more successful prints.
 
 ## Creality CR-10S
-<img src="CR-10_Profiles/cr10.jpg" width="400">
+<img src="CR-10_Profiles/cr10.JPG" width="400">
 
 Amazon Link: [https://www.amazon.com/HICTOP-Printer-Filament-Monitor-300x300x400mm/dp/B074QLQSQV/ref=sr_1_1?ie=UTF8&qid=1518213852&sr=8-1&keywords=cr10s](https://www.amazon.com/HICTOP-Printer-Filament-Monitor-300x300x400mm/dp/B074QLQSQV/ref=sr_1_1?ie=UTF8&qid=1518213852&sr=8-1&keywords=cr10s)
 
